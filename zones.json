@@ -3849,5 +3849,29 @@
     "url": "{HTML_URL}/478.html",
     "author": "JellyFishedm etc",
     "authorLink": "https://gamebanana.com/mods/44230"
+  },
+  {
+    "id": 479,
+    "name": "Steal A Brainrot",
+    "cover": "{COVER_URL}/479.png",
+    "url": "{HTML_URL}/479.html",
+    "author": "nagami games",
+    "authorLink": "https://yandex.com/games/app/447526"
+  },
+  {
+    "id": 480,
+    "name": "Friday Night Funkin’ Sarvente's Mid-Fight Masses",
+    "cover": "{COVER_URL}/480.png",
+    "url": "{HTML_URL}/480.html",
+    "author": "Dokki.doodlez etc",
+    "authorLink": "https://gamebanana.com/mods/288792"
+  },
+  {
+    "id": 481,
+    "name": "Friday Night Funkin vs. Tricky",
+    "cover": "{COVER_URL}/481.png",
+    "url": "{HTML_URL}/481.html",
+    "author": "Banbuds etc",
+    "authorLink": "https://gamebanana.com/mods/44334"
   }
 ]
