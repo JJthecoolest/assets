@@ -1481,15 +1481,6 @@
     "authorLink": "https://github.com/zardoy/minecraft-web-client"
   },
   {
-    "id": 184,
-    "name": "Undertale",
-    "cover": "{COVER_URL}/184.png",
-    "url": "{HTML_URL}/184.html",
-    "author": "Toby Fox, BluePhoenix25",
-    "authorLink": "https://scratch.mit.edu/projects/791527350",
-    "featured": true
-  },
-  {
     "id": 185,
     "name": "Five Nights at Freddy's: Sister Location",
     "cover": "{COVER_URL}/185.png",
@@ -1520,15 +1511,6 @@
     "url": "{HTML_URL}/188.html",
     "author": "Ciorbyn",
     "authorLink": "https://www.ciorbynstudio.com"
-  },
-  {
-    "id": 189,
-    "name": "Doki Doki Literature Club",
-    "cover": "{COVER_URL}/189.png",
-    "url": "{HTML_URL}/189.html",
-    "author": "Team Salvato",
-    "authorLink": "https://teamsalvato.itch.io/ddlc",
-    "featured": true
   },
   {
     "id": 190,
@@ -1584,7 +1566,7 @@
     "id": 196,
     "name": "ULTRAKILL",
     "cover": "{COVER_URL}/196.png",
-    "url": "{HTML_URL}/196.html",
+    "url": "{HTML_URL}/196-fixed.html",
     "author": "New Blood Interactive, 98corbins",
     "authorLink": "https://store.steampowered.com/app/1229490/",
     "featured": true
@@ -3411,15 +3393,6 @@
     "featured": true
   },
   {
-    "id": 425,
-    "name": "Deltarune",
-    "cover": "{COVER_URL}/425.png",
-    "url": "{HTML_URL}/425.html",
-    "author": "Toby Fox",
-    "authorLink": "https://deltarune.com",
-    "featured": true
-  },
-  {
     "id": 426,
     "name": "Andy's Apple Farm",
     "cover": "{COVER_URL}/426.png",
@@ -3431,7 +3404,7 @@
     "id": 427,
     "name": "OMORI",
     "cover": "{COVER_URL}/427.png",
-    "url": "{HTML_URL}/427.html",
+    "url": "{HTML_URL}/427-fixed.html",
     "author": "Omocat",
     "authorLink": "https://omocat.com",
     "featured": true
@@ -3765,7 +3738,7 @@
     "id": 468,
     "name": "Hollow Knight",
     "cover": "{COVER_URL}/468.png",
-    "url": "{HTML_URL}/468.html",
+    "url": "{HTML_URL}/468-a.html",
     "author": "Team Cherry",
     "authorLink": "https://store.steampowered.com/app/367520/Hollow_Knight",
     "featured": true
@@ -3812,7 +3785,7 @@
   },
   {
     "id": 474,
-    "name": "Friday Night Funkin’ V.S. Whitty",
+    "name": "Friday Night Funkin': V.S. Whitty",
     "cover": "{COVER_URL}/474.png",
     "url": "{HTML_URL}/474.html",
     "author": "Nate Anim8",
@@ -3820,7 +3793,7 @@
   },
   {
     "id": 475,
-    "name": "Friday Night Funkin B-Sides",
+    "name": "Friday Night Funkin': B-Sides",
     "cover": "{COVER_URL}/475.png",
     "url": "{HTML_URL}/475.html",
     "author": "Rozebud",
@@ -3828,7 +3801,7 @@
   },
   {
     "id": 476,
-    "name": "Friday Night Funkin Vs. Hex",
+    "name": "Friday Night Funkin': Vs. Hex",
     "cover": "{COVER_URL}/476.png",
     "url": "{HTML_URL}/476.html",
     "author": "YingYang48 etc",
@@ -3836,7 +3809,7 @@
   },
   {
     "id": 477,
-    "name": "Friday Night Funkin Vs. Hatsune Miku",
+    "name": "Friday Night Funkin': Vs. Hatsune Miku",
     "cover": "{COVER_URL}/477.png",
     "url": "{HTML_URL}/477.html",
     "author": "evidal etc",
@@ -3844,7 +3817,7 @@
   },
   {
     "id": 478,
-    "name": "Friday Night Funkin Neo",
+    "name": "Friday Night Funkin': Neo",
     "cover": "{COVER_URL}/478.png",
     "url": "{HTML_URL}/478.html",
     "author": "JellyFishedm etc",
@@ -3860,7 +3833,7 @@
   },
   {
     "id": 480,
-    "name": "Friday Night Funkin’ Sarvente's Mid-Fight Masses",
+    "name": "Friday Night Funkin': Sarvente's Mid-Fight Masses",
     "cover": "{COVER_URL}/480.png",
     "url": "{HTML_URL}/480.html",
     "author": "Dokki.doodlez etc",
@@ -3868,10 +3841,567 @@
   },
   {
     "id": 481,
-    "name": "Friday Night Funkin vs. Tricky",
+    "name": "Friday Night Funkin': vs. Tricky",
     "cover": "{COVER_URL}/481.png",
     "url": "{HTML_URL}/481.html",
     "author": "Banbuds etc",
     "authorLink": "https://gamebanana.com/mods/44334"
+  },
+  {
+    "id": 482,
+    "name": "Human Expenditure Program",
+    "cover": "{COVER_URL}/482.png",
+    "url": "{HTML_URL}/482-2.html",
+    "author": "SHROOMYCHRIST-STUDIOS",
+    "authorLink": "https://shroomychrist-studios.itch.io/"
+  },
+  {
+    "id": 483,
+    "name": "Friday Night Funkin': Hit Single Real",
+    "cover": "{COVER_URL}/483.png",
+    "url": "{HTML_URL}/483.html",
+    "author": "Sturm/Churgney Gurgney etc",
+    "authorLink": "https://gamebanana.com/mods/395039"
+  },
+  {
+    "id": 484,
+    "name": "Friday Night Funkin': Creepypasta JP",
+    "cover": "{COVER_URL}/484.png",
+    "url": "{HTML_URL}/484.html",
+    "author": "CPJP Team",
+    "authorLink": "https://gamebanana.com/mods/584886"
+  },
+  {
+    "id": 485,
+    "name": "Friday Night Funkin': vs. Garcello",
+    "cover": "{COVER_URL}/485.png",
+    "url": "{HTML_URL}/485.html",
+    "author": "atsuover etc",
+    "authorLink": "https://gamebanana.com/mods/166531"
+  },
+    {
+    "id": 486,
+    "name": "Friday Night Funkin': Sonic Legacy",
+    "cover": "{COVER_URL}/486.png",
+    "url": "{HTML_URL}/486.html",
+    "author": "JoeDoughBoi etc",
+    "authorLink": "https://gamebanana.com/mods/496733"
+  },
+    {
+    "id": 487,
+    "name": "Friday Night Funkin': vs. QT",
+    "cover": "{COVER_URL}/487.png",
+    "url": "{HTML_URL}/487.html",
+    "author": "Hazardous24 etc",
+    "authorLink": "https://gamebanana.com/mods/299714"
+  },
+    {
+    "id": 488,
+    "name": "Friday Night Funkin': Mistful Crimson Morning Reboot",
+    "cover": "{COVER_URL}/488.png",
+    "url": "{HTML_URL}/488.html",
+    "author": "Stonesteve etc",
+    "authorLink": "https://gamebanana.com/mods/387663"
+  },
+    {
+    "id": 489,
+    "name": "Friday Night Funkin': Indie Cross",
+    "cover": "{COVER_URL}/489.png",
+    "url": "{HTML_URL}/489.html",
+    "author": "MORØ etc",
+    "authorLink": "https://gamejolt.com/games/indiecross/643540"
+  },
+  {
+    "id": 490,
+    "name": "Rooftop Snipers 2",
+    "cover": "{COVER_URL}/490.png",
+    "url": "{HTML_URL}/490.html",
+    "author": "Neweichgames",
+    "authorLink": "https://www.neweichgames.com"
+  },
+    {
+    "id": 491,
+    "name": "I woke up next to you again.",
+    "cover": "{COVER_URL}/491.png",
+    "url": "{HTML_URL}/491.html",
+    "author": "angela he",
+    "authorLink": "https://zephyo.itch.io/i-woke-up"
+  },
+    {
+    "id": 492,
+    "name": "UNDERWHEELS",
+    "cover": "{COVER_URL}/492.png",
+    "url": "{HTML_URL}/492.html",
+    "author": "LakenDaCoda",
+    "authorLink": "https://www.newgrounds.com/portal/view/987750"
+  },
+    {
+    "id": 493,
+    "name": "RigBMX",
+    "cover": "{COVER_URL}/493.png",
+    "url": "{HTML_URL}/493.html",
+    "author": "Cartoon Network",
+    "authorLink": "https://www.cartoonnetwork.com"
+  },
+   {
+    "id": 494,
+    "name": "RigBMX 2",
+    "cover": "{COVER_URL}/494.png",
+    "url": "{HTML_URL}/494.html",
+    "author": "Cartoon Network",
+    "authorLink": "https://www.cartoonnetwork.com"
+  },
+   {
+    "id": 495,
+    "name": "groon groon, babey!",
+    "cover": "{COVER_URL}/495.png",
+    "url": "{HTML_URL}/495.html",
+    "author": "tanner bananer",
+    "authorLink": "https://goodboytan.itch.io/gg-kart"
+  },
+  {
+    "id": 496,
+    "name": "Friday Night Funkin': Jeffy's Endless Aethos",
+    "cover": "{COVER_URL}/496.png",
+    "url": "{HTML_URL}/496.html",
+    "author": "jeffyfansml99 etc",
+    "authorLink": "https://gamebanana.com/mods/504934"
+  },
+{
+    "id": 497,
+    "name": "Friday Night Funkin': vs. BOPCITY",
+    "cover": "{COVER_URL}/497.png",
+    "url": "{HTML_URL}/497.html",
+    "author": "Daniel Hummus",
+    "authorLink": "https://gamebanana.com/mods/527514"
+  },
+{
+    "id": 498,
+    "name": "Friday Night Funkin': 17 Bucks: Floor 1",
+    "cover": "{COVER_URL}/498.png",
+    "url": "{HTML_URL}/498.html",
+    "author": "Peacocok6k",
+    "authorLink": "https://gamebanana.com/mods/461390"
+  },
+  {
+    "id": 499,
+    "name": "Friday Night Funkin': FIRE IN THE HOLE: Lobotomy Dash Funkin'",
+    "cover": "{COVER_URL}/499.png",
+    "url": "{HTML_URL}/499.html",
+    "author": "CoolDudeCrafter",
+    "authorLink": "https://gamebanana.com/mods/490658"
+  },
+  {
+    "id": 500,
+    "name": "Friday Night Funkin': TWIDDLEFINGER",
+    "cover": "{COVER_URL}/500.png",
+    "url": "{HTML_URL}/500.html",
+    "author": "MAXPROLOVER998",
+    "authorLink": "https://gamebanana.com/mods/525021"
+  },
+  {
+    "id": 501,
+    "name": "Kindergarten 3",
+    "cover": "{COVER_URL}/501.png",
+    "url": "{HTML_URL}/501.html",
+    "author": "Con Man Games, SmashGames and Sean Young",
+    "authorLink": "https://store.steampowered.com/app/2695570/Kindergarten_3/"
+  },
+  {
+    "id": 502,
+    "name": "Stick With It",
+    "cover": "{COVER_URL}/502.png",
+    "url": "{HTML_URL}/502.html",
+    "author": "Sam Hogan",
+    "authorLink": "https://samhogan.itch.io/stick-with-it/"
+  },
+  {
+    "id": 503,
+    "name": "Five Nights at Candy's",
+    "cover": "{COVER_URL}/503.png",
+    "url": "{HTML_URL}/503.html",
+    "author": "Emil \"Ace\" Macko",
+    "authorLink": "https://gamejolt.com/games/five-nights-at-candy-s-official/70253"
+  },
+  {
+    "id": 504,
+    "name": "Five Nights at Candy's 2",
+    "cover": "{COVER_URL}/504.png",
+    "url": "{HTML_URL}/504.html",
+    "author": "Emil \"Ace\" Macko",
+    "authorLink": "https://gamejolt.com/games/five-nights-at-candy-s-2-official/110234"
+  },
+  {
+    "id": 505,
+    "name": "Pokemon Red",
+    "cover": "{COVER_URL}/505.png",
+    "url": "{HTML_URL}/505.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "emulator": true
+  },
+  {
+    "id": 506,
+    "name": "Pokemon Emerald",
+    "cover": "{COVER_URL}/506.png",
+    "url": "{HTML_URL}/506.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "emulator": true
+  },
+  {
+    "id": 507,
+    "name": "The Impossible Quiz",
+    "cover": "{COVER_URL}/507.png",
+    "url": "{HTML_URL}/507.html",
+    "author": "SPLAPP-ME-DO",
+    "authorLink": "https://splapp-me-do.newgrounds.com/"
+  },
+  {
+    "id": 508,
+    "name": "Super Mario Bros",
+    "cover": "{COVER_URL}/508.png",
+    "url": "{HTML_URL}/508.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "emulator": true
+  },
+  {
+    "id": 509,
+    "name": "Friday Night Funkin’ Soft",
+    "cover": "{COVER_URL}/509.png",
+    "url": "{HTML_URL}/509.html",
+    "author": "ShiniTrexx etc",
+    "authorLink": "https://gamebanana.com/mods/523551"
+  },
+  {
+    "id": 510,
+    "name": "Tomodachi Collection",
+    "cover": "{COVER_URL}/510.png",
+    "url": "{HTML_URL}/510.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "emulator": true
+  },
+  {
+    "id": 511,
+    "name": "Doge Miner",
+    "cover": "{COVER_URL}/511.png",
+    "url": "{HTML_URL}/511.html",
+    "author": "rkn",
+    "authorLink": "https://www.patreon.com/dogeminer/about"
+  },
+  {
+    "id": 512,
+    "name": "Final Earth 2",
+    "cover": "{COVER_URL}/512.png",
+    "url": "{HTML_URL}/512.html",
+    "author": "flori9",
+    "authorLink": "https://flori9.itch.io/the-final-earth-2"
+  },
+  {
+    "id": 513,
+    "name": "Swordfight!!",
+    "cover": "{COVER_URL}/513.png",
+    "url": "{HTML_URL}/513.html",
+    "author": "Studio-19",
+    "authorLink": "https://studio-19.itch.io/swordfight"
+  },
+  {
+    "id": 514,
+    "name": "PortaBoy+",
+    "cover": "{COVER_URL}/514.png",
+    "url": "{HTML_URL}/514.html",
+    "author": "Enchae, Lumpy",
+    "authorLink": "https://enchae.itch.io/portaboyplus"
+  },
+  {
+    "id": 515,
+    "name": "PacMan (Horror)",
+    "cover": "{COVER_URL}/515.png",
+    "url": "{HTML_URL}/515.html",
+    "author": "BerickCook",
+    "authorLink": "https://berickcook.itch.io/pacman"
+  },
+  {
+    "id": 516,
+    "name": "Oshi Oshi Punch!",
+    "cover": "{COVER_URL}/516.png",
+    "url": "{HTML_URL}/516.html",
+    "author": "Empty House Games, Shuu",
+    "authorLink": "https://emptyhousegames.itch.io/oshi-oshi-punch"
+  },
+  {
+    "id": 517,
+    "name": "Nubby's Number Factory",
+    "cover": "{COVER_URL}/517.png",
+    "url": "{HTML_URL}/517.html",
+    "author": "MogDogBlog Productions",
+    "authorLink": "https://mogdogblog-productions.itch.io/nubbys-number-factory"
+  },
+  {
+    "id": 518,
+    "name": "Touhou: Luminous Strike",
+    "cover": "{COVER_URL}/518.png",
+    "url": "{HTML_URL}/518.html",
+    "author": "NitNitori, LadyEbony",
+    "authorLink": "https://nitori.itch.io/touhou-luminous-strike"
+  },
+  {
+    "id": 519,
+    "name": "Generic Fighter Maybe",
+    "cover": "{COVER_URL}/519.png",
+    "url": "{HTML_URL}/519.html",
+    "author": "Astrobard Games, Khao Mortadios",
+    "authorLink": "https://astrobardgames.itch.io/generic-fighter-maybe"
+  },
+  {
+    "id": 520,
+    "name": "Dan The Man",
+    "cover": "{COVER_URL}/520.png",
+    "url": "{HTML_URL}/520.html",
+    "author": "Halfbrick Studios",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.halfbrick.dantheman"
+  },
+  {
+    "id": 521,
+    "name": "Bust a Loop",
+    "cover": "{COVER_URL}/521.png",
+    "url": "{HTML_URL}/521.html",
+    "author": "PeachTreeOath",
+    "authorLink": "https://peachtreeoath.itch.io/bust-a-loop"
+  },
+  {
+    "id": 522,
+    "name": "Bad Monday Simulator",
+    "cover": "{COVER_URL}/522.png",
+    "url": "{HTML_URL}/522.html",
+    "author": "Lumpy, Spasco",
+    "authorLink": "https://lumpytouch.itch.io/bad-monday-simulator"
+  },
+  {
+    "id": 523,
+    "name": "Touhou Mother",
+    "cover": "{COVER_URL}/523.png",
+    "url": "{HTML_URL}/523.html",
+    "author": "vgperson",
+    "authorLink": "https://vgperson.com/games/touhoumother.htm"
+  },
+  {
+    "id": 524,
+    "name": "Parappa The Rapper",
+    "cover": "{COVER_URL}/524.png",
+    "url": "{HTML_URL}/524.html",
+    "author": "NanaOn-Sha",
+    "authorLink": "https://www.nanaon-sha.co.jp/"
+  },
+   {
+    "id": 525,
+    "name": "Friday Night Funkin': Darkness Takeover",
+    "cover": "{COVER_URL}/525.png",
+    "url": "{HTML_URL}/525.html",
+    "author": "MiniSymba",
+    "authorLink": "https://gamejolt.com/games/darknesstakeover/802587"
+  },
+  {
+    "id": 526,
+    "name": "SpongeBob SquarePants: Land Ho!",
+    "cover": "{COVER_URL}/526.png",
+    "url": "{HTML_URL}/526.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 527,
+    "name": "SpongeBob SquarePants: SpongeBob Run",
+    "cover": "{COVER_URL}/527.png",
+    "url": "{HTML_URL}/527.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 528,
+    "name": "SpongeBob SquarePants: Squidward's Sizzlin' Scare",
+    "cover": "{COVER_URL}/528.png",
+    "url": "{HTML_URL}/528.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 529,
+    "name": "SpongeBob SquarePants: Sandy's Sponge Stacker",
+    "cover": "{COVER_URL}/529.png",
+    "url": "{HTML_URL}/529.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 530,
+    "name": "SpongeBob SquarePants: Tasty Pastry Party",
+    "cover": "{COVER_URL}/530.png",
+    "url": "{HTML_URL}/530.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 531,
+    "name": "SpongeBob SquarePants: The Kah-Ray-Tay Squid",
+    "cover": "{COVER_URL}/531.png",
+    "url": "{HTML_URL}/531.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 532,
+    "name": "SpongeBob SquarePants: WereSquirrel",
+    "cover": "{COVER_URL}/532.png",
+    "url": "{HTML_URL}/532.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 533,
+    "name": "SpongeBob SquarePants: Krabby Katch",
+    "cover": "{COVER_URL}/533.png",
+    "url": "{HTML_URL}/533.html",
+    "author": "Nickelodeon",
+    "authorLink": "https://nick.com"
+  },
+  {
+    "id": 534,
+    "name": "Teen Titans GO!: Jump Jousts",
+    "cover": "{COVER_URL}/534.png",
+    "url": "{HTML_URL}/534.html",
+    "author": "Cartoon Network",
+    "authorLink": "https://cartoonnetwork.com"
+  },
+  {
+    "id": 535,
+    "name": "Teen Titans GO!: Jump Jousts 2",
+    "cover": "{COVER_URL}/535.png",
+    "url": "{HTML_URL}/535.html",
+    "author": "Cartoon Network",
+    "authorLink": "https://cartoonnetwork.com"
+  },
+  {
+    "id": 536,
+    "name": "Cat Connection",
+    "cover": "{COVER_URL}/536.png",
+    "url": "{HTML_URL}/536.html",
+    "author": "MOSTLY MAD PRODUCTIONS",
+    "authorLink": "https://mostlymadproductions.itch.io/cat-connection"
+  },
+  {
+    "id": 537,
+    "name": "Cat Gunner: Super Zombie Shoot",
+    "cover": "{COVER_URL}/537.png",
+    "url": "{HTML_URL}/537.html",
+    "author": "Poki",
+    "authorLink": "https://poki.com/en/g/cat-gunner-super-zombie-shoot"
+  },
+  {
+    "id": 538,
+    "name": "Love Letters",
+    "cover": "{COVER_URL}/538.png",
+    "url": "{HTML_URL}/538.html",
+    "author": "Nozomu Games",
+    "authorLink": "https://nozomu57.itch.io/love-letters"
+  },
+  {
+    "id": 539,
+    "name": "Chiikawa Puzzle",
+    "cover": "{COVER_URL}/539.png",
+    "url": "{HTML_URL}/539.html",
+    "author": "emptygamer",
+    "authorLink": "https://emptygamer.itch.io/chiikawapuzzle"
+  },
+  {
+    "id": 540,
+    "name": "myTeardrop",
+    "cover": "{COVER_URL}/540.png",
+    "url": "{HTML_URL}/540.html",
+    "author": "VENDORMINT",
+    "authorLink": "https://x.com/vendormint"
+  },
+  {
+    "id": 541,
+    "name": "Friday Night Funkin': Pibby: Apocalypse",
+    "cover": "{COVER_URL}/541.png",
+    "url": "{HTML_URL}/541.html",
+    "author": "BAUDASlel etc.",
+    "authorLink": "https://gamebanana.com/wips/73842"
+  },
+  {
+    "id": 542,
+    "name": "Karlson",
+    "cover": "{COVER_URL}/542.png",
+    "url": "{HTML_URL}/542-a.html",
+    "author": "DaniDev",
+    "authorLink": "https://danidev.itch.io/",
+    "featured": true
+  },
+  {
+    "id": 543,
+    "name": "Jelly Drift",
+    "cover": "{COVER_URL}/543.png",
+    "url": "{HTML_URL}/543-a.html",
+    "author": "DaniDev",
+    "authorLink": "https://danidev.itch.io/"
+  },
+  {
+    "id": 544,
+    "name": "Plinko",
+    "cover": "{COVER_URL}/544.png",
+    "url": "{HTML_URL}/544.html",
+    "author": "Anson Heung",
+    "authorLink": "https://www.ansonh.com"
+  },
+  {
+    "id": 545,
+    "name": "Clash Of Vikings",
+    "cover": "{COVER_URL}/545.png",
+    "url": "{HTML_URL}/545.html",
+    "author": "unknown",
+    "authorLink": "https://www.crazygames.com/game/clash-of-vikings"
+  },
+  {
+    "id": 546,
+    "name": "Recoil",
+    "cover": "{COVER_URL}/546.png",
+    "url": "{HTML_URL}/546.html",
+    "author": "Martin Magini",
+    "authorLink": "https://play.fancade.com"
+  },
+  {
+    "id": 547,
+    "name": "Baseball Bros",
+    "cover": "{COVER_URL}/547.png",
+    "url": "{HTML_URL}/547.html",
+    "author": "Blue Wizard",
+    "authorLink": "https://baseballbros.io"
+  },
+  {
+    "id": 548,
+    "name": "Football Bros",
+    "cover": "{COVER_URL}/548.png",
+    "url": "{HTML_URL}/548.html",
+    "author": "Blue Wizard",
+    "authorLink": "https://footballbros.io" 
+  },
+  {
+    "id": 549,
+    "name": "Sonic the Hedgehog 2: Community's Cut",
+    "cover": "{COVER_URL}/549.png",
+    "url": "{HTML_URL}/549.html",
+    "author": "heyjoeway and SEGA",
+    "authorLink": "https://github.com/heyjoeway/s2disasm" 
+  },
+    {
+    "id": 550,
+    "name": "Sonic the Hedgehog 3: Angel Island Remastered",
+    "cover": "{COVER_URL}/550.png",
+    "url": "{HTML_URL}/550.html",
+    "author": "Eukaryot3K and SEGA",
+    "authorLink": "https://sonic3air.org/" 
   }
 ]
